@@ -37,6 +37,8 @@ namespace MyThirdTask {
 			char[] seprator = new char[] { ',' };
 			string[] firstRowSeprate = firstRow.Split(seprator);
 			return firstRowSeprate.Length;
+			Console.WriteLine("I want to fuck you");
+			Console.ReadLine();
 		
 		}
 
